@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://shaurabh-web-developer.vercel.app/sitemap.xml
