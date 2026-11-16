@@ -1,0 +1,9 @@
+GITHUB ME YE SAB FILES ROOT ME UPLOAD KARO (koi folder nahi):
+
+Code (6):  index.html  styles.css  config.js  script.js  privacy.html  check.html
+SEO (3):   favicon.svg  robots.txt  sitemap.xml
+Images (8): me.jpg  demo-doccare.jpg  demo-stayhaven.jpg  demo-glowup.jpg
+            demo-eduprime.jpg  demo-luxestate.jpg  demo-bakebrew.jpg  demo-fitpulse.jpg
+
+UPLOAD KE BAAD: apni-site.vercel.app/check.html kholo. Har file ke samne tick dikhega.
+Apni details badalni ho to SIRF config.js edit karo.
